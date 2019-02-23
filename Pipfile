@@ -11,6 +11,7 @@ boto3 = "*"
 logging = "*"
 requests = "*"
 urllib = "*"
+click = "*"
 
 [requires]
 python_version = "3.7"
